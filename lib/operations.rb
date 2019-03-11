@@ -5,6 +5,6 @@ def unsafe?(speed)
 		return false
 end
 end
-def not_safe?
+def not_safe?(mph)
 
 end
